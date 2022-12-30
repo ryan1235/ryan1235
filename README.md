@@ -1,8 +1,8 @@
-Olá Me chamo Ryanluca
+✋ Olá Me chamo Ryanluca
 =====================
 
   
-Atualmente estou estudando front-end focado em react
+Atualmente estou estudando front-end focado em react e estou começando minha jornada no back-end em busca do full-stack
 
 ## 🌐 Redes sociais:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/ryanluca#3255) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/ryan.luca.58) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ryanluca01) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/ryan-luca-839194230/) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/https://twitter.com/ryanluca007123) 
