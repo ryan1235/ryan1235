@@ -1,4 +1,4 @@
-✋ Olá Me chamo Ryanluca
+✋ Olá Me chamo Ryanluca  <img src="[https://random-memer.herokuapp.com/](https://media.discordapp.net/attachments/737664879032270940/928504486652178503/20220106_042512.gif?width=468&height=468)"/>
 =====================
 
   
@@ -21,8 +21,6 @@ Atualmente estou estudando front-end focado em react e estou começando minha jo
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-### 😂 Meme para nossa alegria!
-<img src="https://random-memer.herokuapp.com/" width="512px"/>
 
  ![Snake animation](https://github.com/ryan1235/ryan1235/blob/output/github-contribution-grid-snake.svg)
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
