@@ -1,4 +1,4 @@
-✋ Olá Me chamo Ryanluca  <img src="[https://random-memer.herokuapp.com/](https://media.discordapp.net/attachments/737664879032270940/928504486652178503/20220106_042512.gif?width=468&height=468)"/>
+✋ Olá Me chamo Ryanluca  <img src="[[https://random-memer.herokuapp.com/](https://media.discordapp.net/attachments/737664879032270940/928504486652178503/20220106_042512.gif?width=468&height=468)](https://media.discordapp.net/attachments/737664879032270940/928504486652178503/20220106_042512.gif?width=468&height=468)"/>
 =====================
 
   
