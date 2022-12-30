@@ -1,32 +1,28 @@
-<div align="center">
-  <h1> Olá Me chamo Ryanluca </h1>
-  <br>
-  <o> Atualmente estou estudando html, css e javascript </p>
-  </div>
-<div style="display: inline_block" align="center"><br>
-  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
-  <img align="center" alt="Rafa-Ts" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg">
-  <img align="center" alt="Rafa-React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
-</div>
-<div align="center"><br>
-  <a href="https://github.com/ryan1235">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=ryan1235&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ryan1235&layout=compact&langs_count=7&theme=dracula"/>
-</div>
-<br>
-<div style="display: inline_block"><br>
-  <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://media.discordapp.net/attachments/737664879032270940/928504486652178503/20220106_042512.gif?width=468&height=468">
-</div>
+Olá Me chamo Ryanluca
+=====================
+
   
+Atualmente estou estudando front-end focado em react
 
-##
+## 🌐 Redes sociais:
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/ryanluca#3255) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/ryan.luca.58) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ryanluca01) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/ryan-luca-839194230/) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/https://twitter.com/ryanluca007123) 
 
-<div> 
-  <a href="https://www.youtube.com/channel/UC36--xtIXufE7vYzqLPGOhw" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
-  <a href="https://www.instagram.com/ryanluca007122/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
- <a href="https://twitter.com/ryanluca007123" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>  
+# 💻 Pricipais linguagens que atuo:
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+# 📊 GitHub status:
+![](https://github-readme-stats.vercel.app/api?username=ryan1235&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=ryan1235&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=ryan1235&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
- 
-  ![Snake animation](https://github.com/ryan1235/ryan1235/blob/output/github-contribution-grid-snake.svg)
- 
-</div>
+## 🏆 GitHub troféus
+![](https://github-profile-trophy.vercel.app/?username=ryan1235&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+### 😂 Meme para nossa alegria!
+<img src="https://random-memer.herokuapp.com/" width="512px"/>
+
+ ![Snake animation](https://github.com/ryan1235/ryan1235/blob/output/github-contribution-grid-snake.svg)
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
